@@ -1,0 +1,131 @@
+[
+{
+  "description": [
+    "Description: It will Login to Application and Verify the Title of Page."
+  ],
+  "elements": [
+    {
+      "keyword": "Scenario",
+      "location": "features/LoginTest.feature:3",
+      "name": "Login Application.",
+      "status": "passed",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features/LoginTest.feature:4",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/LoginSteps.py:5"
+          },
+          "name": "User is able to login to application with valid credentials",
+          "result": {
+            "duration": 0.06449580192565918,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features/LoginTest.feature:5",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/LoginSteps.py:11"
+          },
+          "name": "User Enters Login Details",
+          "result": {
+            "duration": 10.542211532592773,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/LoginTest.feature:6",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/LogoutSteps.py:4"
+          },
+          "name": "user logout from application",
+          "result": {
+            "duration": 0.763110876083374,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    }
+  ],
+  "keyword": "Feature",
+  "location": "features/LoginTest.feature:1",
+  "name": "Verify user is able to login to Application.",
+  "status": "passed",
+  "tags": []
+},
+
+{
+  "description": [
+    "Description: It will Login to Application and Verify the Title of Page."
+  ],
+  "elements": [
+    {
+      "keyword": "Scenario",
+      "location": "features/LoginTestRepeat.feature:3",
+      "name": "Login Application.",
+      "status": "passed",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features/LoginTestRepeat.feature:4",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/LoginSteps.py:5"
+          },
+          "name": "User is able to login to application with valid credentials",
+          "result": {
+            "duration": 0.009138822555541992,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features/LoginTestRepeat.feature:5",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/LoginSteps.py:11"
+          },
+          "name": "User Enters Login Details",
+          "result": {
+            "duration": 7.675650358200073,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/LoginTestRepeat.feature:6",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/LogoutSteps.py:4"
+          },
+          "name": "user logout from application",
+          "result": {
+            "duration": 0.8445432186126709,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    }
+  ],
+  "keyword": "Feature",
+  "location": "features/LoginTestRepeat.feature:1",
+  "name": "Verify user is able to login to Application.",
+  "status": "passed",
+  "tags": []
+}
+]

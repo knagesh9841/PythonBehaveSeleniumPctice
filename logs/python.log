@@ -1,0 +1,44 @@
+2020-07-12 13:08:25,734 - killbrowserdriver - INFO - Driver process chromedriver.exe is not exists.
+2020-07-12 13:08:25,734 - selenium_browser_setdriver - INFO - Chrome Browser option is selected
+2020-07-12 13:08:28,552 - before_all - INFO - before all is called
+2020-07-12 13:08:28,565 - before_feature - INFO - Before Feature <Feature "Verify user is able to login to Application.": 1 scenario(s)> is called
+2020-07-12 13:08:28,582 - before_scenario - INFO - Before Scenario <Scenario "Login Application."> is called
+2020-07-12 13:08:28,595 - before_step - INFO - Before Step <given "User is able to login to application with valid credentials"> is called
+2020-07-12 13:08:28,617 - User_is_able_to_login_to_application - INFO - User is able to login to application with valid credentials Step is called.
+2020-07-12 13:08:28,670 - after_step - INFO - After Step <given "User is able to login to application with valid credentials"> is called
+2020-07-12 13:08:28,685 - before_step - INFO - Before Step <when "User Enters Login Details"> is called
+2020-07-12 13:08:32,074 - readdata - INFO - Data is read successfully.
+2020-07-12 13:08:32,074 - readdata - INFO - Workbook closed succesfully
+2020-07-12 13:08:37,292 - waitforpagetitleis - ERROR - ----------Page with Title Address Book - Sign In is not opened.---------
+2020-07-12 13:08:37,400 - waitForElementVisible - INFO - -----------Element is Visible.-------------
+2020-07-12 13:08:38,088 - waitForElementVisible - INFO - -----------Element is Visible.-------------
+2020-07-12 13:08:39,226 - waitforpagetitleis - INFO - -----------Page with Title Address Book is opened.-------------
+2020-07-12 13:08:39,227 - logintoapplication - INFO - Successfully Login to Application.
+2020-07-12 13:08:39,233 - after_step - INFO - After Step <when "User Enters Login Details"> is called
+2020-07-12 13:08:39,238 - before_step - INFO - Before Step <then "user logout from application"> is called
+2020-07-12 13:08:40,001 - waitforpagetitleis - INFO - -----------Page with Title Address Book - Sign In is opened.-------------
+2020-07-12 13:08:40,002 - logoutfromapplication - INFO - Successfully Logout from Application.
+2020-07-12 13:08:40,005 - after_step - INFO - After Step <then "user logout from application"> is called
+2020-07-12 13:08:40,009 - after_scenario - INFO - After Scenario <Scenario "Login Application."> is called
+2020-07-12 13:08:40,017 - after_feature - INFO - After scenario <Feature "Verify user is able to login to Application.": 1 scenario(s)> is called
+2020-07-12 13:08:40,021 - before_feature - INFO - Before Feature <Feature "Verify user is able to login to Application.": 1 scenario(s)> is called
+2020-07-12 13:08:40,029 - before_scenario - INFO - Before Scenario <Scenario "Login Application."> is called
+2020-07-12 13:08:40,036 - before_step - INFO - Before Step <given "User is able to login to application with valid credentials"> is called
+2020-07-12 13:08:40,045 - User_is_able_to_login_to_application - INFO - User is able to login to application with valid credentials Step is called.
+2020-07-12 13:08:40,053 - after_step - INFO - After Step <given "User is able to login to application with valid credentials"> is called
+2020-07-12 13:08:40,056 - before_step - INFO - Before Step <when "User Enters Login Details"> is called
+2020-07-12 13:08:40,489 - readdata - INFO - Data is read successfully.
+2020-07-12 13:08:40,489 - readdata - INFO - Workbook closed succesfully
+2020-07-12 13:08:45,689 - waitforpagetitleis - ERROR - ----------Page with Title Address Book - Sign In is not opened.---------
+2020-07-12 13:08:45,827 - waitForElementVisible - INFO - -----------Element is Visible.-------------
+2020-07-12 13:08:46,392 - waitForElementVisible - INFO - -----------Element is Visible.-------------
+2020-07-12 13:08:47,731 - waitforpagetitleis - INFO - -----------Page with Title Address Book is opened.-------------
+2020-07-12 13:08:47,732 - logintoapplication - INFO - Successfully Login to Application.
+2020-07-12 13:08:47,738 - after_step - INFO - After Step <when "User Enters Login Details"> is called
+2020-07-12 13:08:47,747 - before_step - INFO - Before Step <then "user logout from application"> is called
+2020-07-12 13:08:48,592 - waitforpagetitleis - INFO - -----------Page with Title Address Book - Sign In is opened.-------------
+2020-07-12 13:08:48,592 - logoutfromapplication - INFO - Successfully Logout from Application.
+2020-07-12 13:08:48,603 - after_step - INFO - After Step <then "user logout from application"> is called
+2020-07-12 13:08:48,613 - after_scenario - INFO - After Scenario <Scenario "Login Application."> is called
+2020-07-12 13:08:48,621 - after_feature - INFO - After scenario <Feature "Verify user is able to login to Application.": 1 scenario(s)> is called
+2020-07-12 13:08:48,627 - after_all - INFO - After all is called
